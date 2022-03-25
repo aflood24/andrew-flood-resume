@@ -64,13 +64,21 @@ Las Vegas, NV
 
 ## Accomplishments
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`August 2015`
+__Eagle Scout - Boy Scouts of America__
 
+- Required to learn, demonstrate, and teach important life skills 
+- Organized and managed a 5 hours project over community service
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills
 
+- Communication in customer service 
+- Excellent in customer relations
+- Great computer and typing skills
+- Proficient with Excel
+- Good at decision making under pressure
+- Able to follow directions as orchestrated by the principal.
+- Basic understanding with Python, R, and SQL
 
 
 <!-- ### Footer
